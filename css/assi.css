@@ -7,6 +7,9 @@ body {
   font-weight: 600;
 }
 .bigcontainer {
+  background-image: url("/img/Gemini_Generated_Image_tm1tc1tm1tc1tm1t.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 20%;
   height: 100vh;
   display: flex;
@@ -15,12 +18,6 @@ body {
   align-items: center;
   box-sizing: border-box;
   overflow: hidden;
-}
-.bigcontainer video {
-  position: absolute;
-  z-index: -1;
-  bottom: 0px;
-  object-fit: cover;
 }
 form {
   width: 350px;
