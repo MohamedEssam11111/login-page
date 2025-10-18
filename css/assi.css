@@ -7,7 +7,7 @@ body {
   font-weight: 600;
 }
 .bigcontainer {
-  background-image: url("/img/Gemini_Generated_Image_tm1tc1tm1tc1tm1t.png");
+  background-image: url("../img/Gemini_Generated_Image_tm1tc1tm1tc1tm1t.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 20%;
